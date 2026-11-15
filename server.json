@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.touchlinewire/mcp",
+  "title": "Touchline Wire — FPL & Premier League Intelligence",
+  "description": "Zero-auth FPL expected minutes, captains & transfers, plus Premier League lineups & stats.",
+  "version": "1.2.1",
+  "websiteUrl": "https://touchlinewire.com/fpl",
+  "repository": {
+    "url": "https://github.com/touchlinewire/touchlinewire-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://touchlinewire.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://touchlinewire.com/mcp"
+    }
+  ]
+}
+

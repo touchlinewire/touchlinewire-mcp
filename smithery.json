@@ -1,0 +1,6 @@
+{
+  "$schema": "https://smithery.ai/schema.json",
+  "id": "touchlinewire/touchlinewire-mcp",
+  "name": "Touchline Wire FPL & Premier League MCP Server",
+  "description": "Zero-auth 2026/27 Fantasy Premier League (FPL) expected minutes, captaincy picks, sub-10% differentials & live transfer trends, plus RoboKlopp predicted starting XIs, injuries, PGMOL referees, match reports and standings."
+}

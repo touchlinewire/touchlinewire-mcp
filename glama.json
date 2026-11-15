@@ -1,0 +1,11 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "touchlinewire-mcp",
+  "description": "Zero-auth MCP server for 2026/27 Fantasy Premier League (FPL) expected minutes, captaincy picks, differentials & transfer trends, plus Premier League predicted starting XIs, injuries, PGMOL referees, match reports and standings.",
+  "maintainers": [
+    "touchlinewire"
+  ],
+  "categories": [
+    "sports"
+  ]
+}

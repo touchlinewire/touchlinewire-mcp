@@ -1,0 +1,50 @@
+{
+  "name": "touchlinewire-mcp",
+  "version": "1.2.1",
+  "description": "Zero-auth MCP server for 2026/27 Fantasy Premier League (FPL) expected minutes, captaincy picks, differentials & transfer trends, plus Premier League predicted starting XIs, injuries, PGMOL referees & standings.",
+  "type": "module",
+  "bin": {
+    "touchlinewire-mcp": "src/index.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "cursor",
+    "premier-league",
+    "football",
+    "soccer",
+    "fantasy-premier-league",
+    "fpl",
+    "expected-minutes",
+    "fpl-differentials",
+    "tactical-analysis",
+    "lineups",
+    "referees",
+    "touchline-wire"
+  ],
+  "author": "Touchline Wire",
+  "license": "MIT",
+  "homepage": "https://touchlinewire.com/docs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touchlinewire/touchlinewire-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/touchlinewire/touchlinewire-mcp/issues"
+  },
+  "files": [
+    "src",
+    ".well-known",
+    "README.md",
+    "package.json"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^3.24.2"
+  }
+}
