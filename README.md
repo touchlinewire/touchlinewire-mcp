@@ -1,5 +1,7 @@
 # Touchline Wire FPL & Premier League MCP Server ⚽
 
+[![HOL Guard](https://img.shields.io/endpoint?url=https%3A%2F%2Fhol.org%2Fapi%2Fregistry%2Fbadges%2Fplugin%3Fslug%3Dtouchlinewire%252Ftouchlinewire-mcp%26metric%3Drelease)](https://hol.org/registry/plugins/touchlinewire%2Ftouchlinewire-mcp?utm_source=hol_marketplace&utm_medium=plugins_badge&utm_campaign=plugins&utm_content=touchlinewire%2Ftouchlinewire-mcp&ref=plugin-author-ec28818b)
+
 [![Touchlinewire Mcp score on AI Agents Listing](https://aiagentslisting.com/touchlinewire-mcp/badge.svg?variant=score)](https://aiagentslisting.com/mcp/touchlinewire-mcp)
 [![touchlinewire/touchlinewire-mcp MCP server](https://glama.ai/mcp/servers/touchlinewire/touchlinewire-mcp/badges/score.svg)](https://glama.ai/mcp/servers/touchlinewire/touchlinewire-mcp)
 
